@@ -104,6 +104,7 @@ The final analysis was divided into two dashboards, with slicers enabling users 
 - Married: 167 employees
 - Single: 167 employees
 8) Yearly Staff Trend: Staff numbers show a generally stable trend with minor fluctuations. The year 2009 saw the highest headcount, reaching 170 hires, marking a peak in hiring activity during the analysis period.
+    
 9) Average Tenure by Department:
 Departments with the longest average tenure are:
 - Tool Design: 16 years
