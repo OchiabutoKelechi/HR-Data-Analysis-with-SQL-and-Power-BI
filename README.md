@@ -9,7 +9,7 @@ The data for this analysis was extracted from the AdventureWorks2022 database, w
 
 ### Click on the link to interact with the [Analysis Dashboard](https://app.powerbi.com/groups/me/reports/cbb68014-4482-41ba-9158-7e271b345fab/ReportSectionef8754970a381b4e41a6?experience=power-bi) 
 
-Data Extraction
+## Data Extraction
 I used SQL queries to extract relevant columns from multiple tables within the Human Resources schema. Here is the SQL query that brought together data points from the Employee, Department, Shift, and Pay History tables:
 
 ```sql
